@@ -1,1 +1,1 @@
-# .github
+sudo apt
